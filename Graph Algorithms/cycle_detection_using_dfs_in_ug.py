@@ -30,17 +30,7 @@ for i in range(edges):
 
 visited = [0] * int(nodes + 1)
 
-flag = False
-for u in range(1, nodes+1):
-    if visited[u]:
-        continue
-
-    flag = check_cycle(u, -1)
-    if flag:
-        break
-
-
-if flag:
+if check_cycle(1, -1):
     print("The graph has a cycle")
 else:
     print("The graph has no cycle")
