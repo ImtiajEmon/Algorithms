@@ -10,7 +10,7 @@
   4. [Merge Sort](https://github.com/ImtiajEmon/Algorithms/blob/main/Sorting%20Algorithms/Merge_Sort.py)
   5. [Quick Sort](https://github.com/ImtiajEmon/Algorithms/blob/main/Sorting%20Algorithms/Quick_Sort.py)
 
-## Graph
+## Graph Theory
 
 ## Graph Traversal
   1. [DFS with Recursion](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_recursion.py)
