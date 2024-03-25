@@ -15,7 +15,6 @@ nodes = int(input())
 edges = int(input())
 
 adj_list = [[] for i in range(nodes + 1)]
-visited = [0] * int(nodes + 1)
 
 # Taking the edges
 for i in range(edges):
@@ -29,4 +28,5 @@ for i in range(edges):
 visited = [0] * (nodes + 1)
 stack = []
 source = 1
+
 dfs(source)
