@@ -33,3 +33,6 @@
   1. [Dijkstra]()
   2. [Bellman–Ford]()
   3. [Floyd–Warshall]()
+
+## Disjoint-set data structure
+  1. [Disjoint Set Union](https://github.com/ImtiajEmon/CSE221_LAB/blob/main/Algorithms/dsu.py)
