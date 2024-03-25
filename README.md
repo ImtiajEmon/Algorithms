@@ -18,13 +18,13 @@
   3. [BFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bfs.py)
 
 ## Application of DFS
-  1. [Cycle Detection in Undirected Graph Using DFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_dfs_in_ug.py)
-  2. [Cycle Detection in Directed Graph Using DFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_dfs_in_dg.py)
-  3. [Topological Order using DFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/topological_sort.py)
+  1. [Cycle Detection in Undirected Graph](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_dfs_in_ug.py)
+  2. [Cycle Detection in Directed Graph](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_dfs_in_dg.py)
+  3. [Topological Order](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/topological_sort.py)
   4. [Bipartite Checking](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bipartite_checking_using_dfs.py)
 
 ## Application of BFS
-  1. [Cycle Detection in Undirected Graph Using BFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_bfs_in_ug.py)
-  2. [Cycle Detection in Directed Graph Using BFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_bfs_in_dg.py)
-  3. [Topological Order using BFS (Kahn's Algorithm)](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/kahn.py)
+  1. [Cycle Detection in Undirected Graph](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_bfs_in_ug.py)
+  2. [Cycle Detection in Directed Graph](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_bfs_in_dg.py)
+  3. [Topological Order (Kahn's Algorithm)](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/kahn.py)
   4. [Bipartite Checking](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bipartite_checking_using_bfs.py)
