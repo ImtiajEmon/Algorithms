@@ -20,7 +20,6 @@ nodes = int(input())
 edges = int(input())
 
 adj_list = [[] for i in range(nodes + 1)]
-visited = [0] * int(nodes + 1)
 
 # Taking the edges
 for i in range(edges):
@@ -30,5 +29,6 @@ for i in range(edges):
     adj_list[u].append(v)
     adj_list[v].append(u)
 #=================================================================
+visited = [0] * int(nodes + 1)
 
 bfs(1)
