@@ -30,9 +30,13 @@
   4. [Bipartite Checking](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bipartite_checking_using_bfs.py)
 
 ## Shortest Path
-  1. [Dijkstra]()
-  2. [Bellman–Ford]()
-  3. [Floyd–Warshall]()
+  1. [Dijkstra](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/shortest%20path/dijkstra.py)
+  2. [Bellman–Ford](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/shortest%20path/bellman_ford.py)
+  3. [Floyd–Warshall](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/shortest%20path/floyd_warshall.py)
 
 ## Disjoint-set data structure
   1. [Disjoint Set Union](https://github.com/ImtiajEmon/CSE221_LAB/blob/main/Algorithms/dsu.py)
+
+##  Spanning Tree
+  1. [Prim's]()
+  2. [Kruskal's]()
