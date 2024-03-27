@@ -12,7 +12,7 @@
 
 ## Graph Theory
 
-#### Graph Traversal
+### Graph Traversal
   1. [DFS with Recursion](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_recursion.py)
   2. [DFS with Stack](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_stack)
   3. [BFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bfs.py)
