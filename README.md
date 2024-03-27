@@ -11,11 +11,11 @@
   5. [Quick Sort](https://github.com/ImtiajEmon/Algorithms/blob/main/Sorting%20Algorithms/Quick_Sort.py)
 
 ## Graph Theory
-
-  ## Graph Traversal
-    1. [DFS with Recursion](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_recursion.py)
-    2. [DFS with Stack](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_stack)
-    3. [BFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bfs.py)
+### dhdfth
+## Graph Traversal
+  1. [DFS with Recursion](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_recursion.py)
+  2. [DFS with Stack](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/dfs_with_stack)
+  3. [BFS](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/bfs.py)
 
 ## Application of DFS
   1. [Cycle Detection in Undirected Graph](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/cycle_detection_using_dfs_in_ug.py)
