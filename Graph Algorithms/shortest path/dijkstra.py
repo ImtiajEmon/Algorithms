@@ -1,7 +1,7 @@
 from queue import PriorityQueue
 
 
-def dijkstra(source, nodes):
+def dijkstra(source):
     distance[source] = 0   # make source distance 0
 
     pq = PriorityQueue()
@@ -37,7 +37,7 @@ for i in range(edges):
 
 distance = [1e9] * (nodes+1)  # make all distance to infinity
 
-dijkstra(1, nodes)
+dijkstra(1)
 
 for v in range(1, nodes+1):
     print("Distance from 1"," to ", v, "= ", distance[v])
