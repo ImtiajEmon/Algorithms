@@ -39,7 +39,7 @@
 
 ###  Spanning Tree
   1. [Prim's]()
-  2. [Kruskal's]()
+  2. [Kruskal's](https://github.com/ImtiajEmon/Algorithms/blob/main/Graph%20Algorithms/spanning%20tree/kruskal.py)
 
 ## Maximum Subarray Sum
   1. [Brute Force - O(n^3)](https://github.com/ImtiajEmon/Algorithms/blob/main/Maximum%20Subarray%20Sum/brute_force.py)
